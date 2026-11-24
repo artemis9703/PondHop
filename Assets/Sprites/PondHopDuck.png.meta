@@ -150,8 +150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f95af6ff14061a14e89a524ae0a5efb0
-      internalID: -780712230
+      spriteID: 1bd7745ad78717d4d803e11753fb0b50
+      internalID: 150129308
       vertices: []
       indices: 
       edges: []
@@ -172,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ceb8d9e40042b947b01a76d0b13b9b1
-      internalID: 1300120256
+      spriteID: 93ff8c79b36e2c54b92596dccace4eda
+      internalID: 134878357
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bd5b51c4382269408a0c792318cb1e6
-      internalID: 228170231
+      spriteID: 39311a87d36180440a932cb957ad3c2a
+      internalID: -1653456881
       vertices: []
       indices: 
       edges: []
@@ -204,7 +204,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b2dcaf3dc837b7149a2b4a2dd39c06c6
+    spriteID: 72a8a9108c886474f8da13f09e9ceefa
     internalID: 0
     vertices: []
     indices: 
@@ -215,9 +215,9 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       PondHopDuck_0: -5312083004744729229
-      PondHopDuck_1: -780712230
-      PondHopDuck_2: 1300120256
-      PondHopDuck_3: 228170231
+      PondHopDuck_1: 150129308
+      PondHopDuck_2: 134878357
+      PondHopDuck_3: -1653456881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
