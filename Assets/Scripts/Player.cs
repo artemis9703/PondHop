@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class Player : MonoBehaviour
 {
     public int health = 100;
     public float moveSpeed = 5f;
